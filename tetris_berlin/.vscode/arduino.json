@@ -1,0 +1,5 @@
+{
+  "board": "arduino:avr:uno",
+  "sketch": "tetris_berlin.ino",
+  "output": "../build"
+}
