@@ -397,5 +397,3 @@ drawBrick(ranBrck, flow, moveCol, rotate, bottomDir);
   if(flow < 2)
      memset(Matrix, 0, sizeof Matrix);
 }
-
-
